@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVCTest</string>
+    <string name="Heading">MVC Pattern</string>
+    <string name="count">Count</string>
+</resources>

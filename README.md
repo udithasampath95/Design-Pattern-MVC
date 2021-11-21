@@ -1,2 +1,2 @@
 # Design-Pattern-MVC
-This is a simple appliction to understand mvc design pattern
+This is a simple application to understand mvc design pattern
